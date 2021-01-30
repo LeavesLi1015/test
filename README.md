@@ -1,6 +1,8 @@
 # test
 debug for Mesa when simulating COVID-19
 
+Project is in master branch.
+
 Run run.py to simulate the model without visiualization module(no bug found)
 
 Run Model_Vis.py to activate vis_module.
